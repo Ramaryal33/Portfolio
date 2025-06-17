@@ -1,0 +1,142 @@
+﻿@{
+    ViewData["Title"] = "Resume";
+}
+
+@section Styles {
+    <link href="~/css/resume.css" rel="stylesheet" />
+}
+
+<div class="resume-container">
+    <div class="resume-header">
+        <div class="header-text">
+            <h1>RAM ARYAL</h1>
+            <div class="contact-info">
+                <a href="mailto:ramaryal445@gmail.com">ramaryal445@gmail.com</a>
+                <div class="social-links">
+                    <a href="https://www.linkedin.com/in/ram-aryal-5644b92a4/" target="_blank">
+                        <i class="fab fa-linkedin"></i>
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div class="profile-container">
+            <img src="@Url.Content("~/Image/logo3.png")" alt="Ram Aryal" id="interactive-profile" />
+        </div>
+    </div>
+
+    <div class="resume-section">
+        <h2><i class="fas fa-bullseye"></i> Career Objectives</h2>
+        <p>Enthusiastic and dedicated individual embarking on a dynamic software development journey, seeking to leverage my passion for coding and problem-solving to build robust, scalable, and efficient applications. Eager to learn and contribute, I aim to develop a strong foundation in C# and related technologies while collaborating with experienced professionals to create impactful software solutions.</p>
+    </div>
+
+    <div class="resume-section">
+        <h2><i class="fas fa-code"></i> Technical Skills</h2>
+        <div class="skills-grid">
+            <div class="skill-category">
+                <h3>Programming Languages</h3>
+                <ul>
+                    <li>C#</li>
+                    <li>Java</li>
+                    <li>JavaScript</li>
+                    <li>SQL</li>
+                    <li>Python</li>
+                </ul>
+            </div>
+            <div class="skill-category">
+                <h3>Frameworks</h3>
+                <ul>
+                    <li>.NET Core</li>
+                    <li>ASP.NET</li>
+                    <li>Entity Framework</li>
+                    <li>Blazor</li>
+                    <li>React</li>
+                </ul>
+            </div>
+            <div class="skill-category">
+                <h3>Tools</h3>
+                <ul>
+                    <li>Visual Studio</li>
+                    <li>VS Code</li>
+                    <li>SQL Server</li>
+                    <li>Azure DevOps</li>
+                    <li>GitHub</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <div class="resume-section">
+        <h2><i class="fas fa-graduation-cap"></i> Education</h2>
+        <div class="timeline">
+            <div class="timeline-item">
+                <div class="timeline-date">2023 – 2026</div>
+                <div class="timeline-content">
+                    <h3>BSc (Hons) Computing</h3>
+                    <p>Islington College, London Metropolitan University</p>
+                    <p>Kamalpokhari, Kathmandu</p>
+                </div>
+            </div>
+            <div class="timeline-item">
+                <div class="timeline-date">2019 – 2021</div>
+                <div class="timeline-content">
+                    <h3>Diploma in Civil Engineering (SEE, SLC)</h3>
+                    <p>Jitpur Secondary College</p>
+                    <p>Dharmasthali, Kathmandu</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="resume-section">
+        <h2><i class="fas fa-certificate"></i> Certifications</h2>
+        <div class="certifications">
+            <div class="certification-item">
+                <i class="fas fa-award"></i>
+                <span>Microsoft Certified - C# Developer Associate</span>
+            </div>
+            <div class="certification-item">
+                <i class="fas fa-award"></i>
+                <span>Salleon - C# Intermediate</span>
+            </div>
+            <div class="certification-item">
+                <i class="fas fa-award"></i>
+                <span>AWS Academy Cloud Foundations</span>
+            </div>
+            <div class="certification-item">
+                <i class="fas fa-award"></i>
+                <span>AWS Academy Machine Learning Foundation</span>
+            </div>
+        </div>
+    </div>
+
+    <div class="resume-section">
+        <h2><i class="fas fa-project-diagram"></i> Projects</h2>
+        <div class="projects-container">
+            <div class="project-item">
+                <h3>Service Booking and Advertisement Platform</h3>
+                <p class="tech-used"><strong>Technologies:</strong> C#, ASP.NET, Rozer</p>
+                <p>An application for service-related businesses to advertise and open bookings with reward point system.</p>
+            </div>
+            <div class="project-item">
+                <h3>Medicine and Prescription Management</h3>
+                <p class="tech-used"><strong>Technologies:</strong> C#, ASP.NET Web API, React, SQL Server</p>
+                <p>Smart medicine finder application allowing users to buy medicines online using prescriptions.</p>
+            </div>
+            <div class="project-item">
+                <h3>Land Rent Invoice Management System</h3>
+                <p class="tech-used"><strong>Technologies:</strong> Python</p>
+                <p>This Python-based application automates rent invoice generation and manages land and tenant data.</p>
+            </div>
+            <div class="project-item">
+                <h3>Hotel Booking Management</h3>
+                <p class="tech-used"><strong>Technologies:</strong> C#, ASP.NET Web API, React, SQL Server</p>
+                <p>Web app for finding hotels and making room reservations with payment system.</p>
+            </div>
+            <div class="project-item">
+                <h3>Airline Management System</h3>
+                <p class="tech-used"><strong>Technologies:</strong> Java, JavaScript</p>
+                <p>Web app for booking flights with integrated payment system.</p>
+            </div>
+        </div>
+    </div>
+</div>

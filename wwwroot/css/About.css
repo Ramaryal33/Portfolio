@@ -1,0 +1,122 @@
+/* Profile Card Container */
+.profile-card {
+    width: 800px; /* Fixed rectangular width */
+    height: 600px; /* Fixed rectangular height */
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+    padding: 40px;
+    margin: 0 auto;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #333;
+    position: relative;
+    overflow: hidden;
+}
+
+/* Header Section */
+.profile-card-header {
+    margin-bottom: 30px;
+}
+
+.profile-card h1 {
+    font-size: 2.5rem;
+    color: #2c3e50;
+    margin-bottom: 5px;
+}
+
+.profile-card h2 {
+    font-size: 1.5rem;
+    color: #7f8c8d;
+    font-weight: 400;
+    margin-bottom: 20px;
+}
+
+.profile-card p {
+    font-size: 1.1rem;
+    line-height: 1.6;
+    color: #34495e;
+    margin-bottom: 30px;
+}
+
+/* Action Buttons */
+.profile-actions {
+    display: flex;
+    gap: 15px;
+    margin-bottom: 40px;
+}
+
+    .profile-actions a {
+        padding: 12px 25px;
+        border-radius: 6px;
+        text-decoration: none;
+        font-weight: 500;
+        transition: all 0.3s ease;
+    }
+
+.portfolio-btn {
+    background-color: white;
+    color: #3498db;
+    border: 2px solid #3498db;
+}
+
+    .portfolio-btn:hover {
+        background-color: #f8f9fa;
+    }
+
+.resume-btn {
+    background-color: #3498db;
+    color: white;
+    border: 2px solid #3498db;
+}
+
+    .resume-btn:hover {
+        background-color: #2980b9;
+    }
+
+/* Divider Line */
+.divider {
+    height: 1px;
+    background-color: #eee;
+    margin: 30px 0;
+}
+
+/* Skills Section */
+.skills-section h2 {
+    font-size: 1.8rem;
+    color: #2c3e50;
+    margin-bottom: 20px;
+}
+
+.skills-intro {
+    font-size: 1.1rem;
+    color: #7f8c8d;
+    line-height: 1.6;
+    margin-bottom: 30px;
+}
+
+/* Responsive Adjustments */
+@media (max-width: 850px) {
+    .profile-card {
+        width: 90%;
+        height: auto;
+        padding: 30px;
+    }
+}
+
+@media (max-width: 500px) {
+    .profile-card {
+        padding: 20px;
+    }
+
+    .profile-actions {
+        flex-direction: column;
+    }
+
+    .profile-card h1 {
+        font-size: 2rem;
+    }
+
+    .profile-card h2 {
+        font-size: 1.2rem;
+    }
+}

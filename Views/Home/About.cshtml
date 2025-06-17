@@ -1,0 +1,177 @@
+﻿@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>About Me - Ram Aryal</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" />
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f6f9;
+        }
+
+        .about-section {
+            max-width: 1050px;
+            margin: 2rem auto;
+            padding: 2rem;
+            background-color: #fff;
+            border-radius: 12px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
+        }
+
+        h1, h2, h3, h4 {
+            color: #2c3e50;
+            margin-bottom: 1rem;
+        }
+
+        .profile-header {
+            text-align: center;
+            margin-bottom: 2.5rem;
+        }
+
+        .profile-description {
+            color: #555;
+            font-size: 1.1rem;
+            line-height: 1.6;
+            margin-bottom: 1rem;
+            max-width: 750px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .profile-actions {
+            margin-top: 1rem;
+        }
+
+        .btn {
+            display: inline-block;
+            padding: 0.6rem 1.5rem;
+            border-radius: 30px;
+            margin: 0.5rem;
+            font-weight: 500;
+            color: white;
+            background: #3a7bd5;
+            border: none;
+            text-decoration: none;
+            transition: all 0.3s ease;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+
+            .btn:hover {
+                transform: translateY(-3px);
+                box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+            }
+
+        .skills-section {
+            margin-top: 2rem;
+        }
+
+        .skills-container {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 2rem;
+        }
+
+        .skill-card {
+            padding: 1.5rem;
+            background-color: #f9f9f9;
+            border-radius: 15px;
+            text-align: center;
+            transition: transform 0.3s ease;
+            box-shadow: 0 5px 10px rgba(0, 0, 0, 0.05);
+        }
+
+            .skill-card:hover {
+                transform: translateY(-6px);
+            }
+
+        .skill-icon {
+            font-size: 2.5rem;
+            margin-bottom: 1rem;
+            color: #3a7bd5;
+        }
+
+        .skill-card h4 {
+            margin-bottom: 0.6rem;
+        }
+
+        .skill-card p {
+            color: #555;
+            font-size: 0.95rem;
+        }
+    </style>
+</head>
+<body>
+    <section class="about-section">
+        <div class="profile-header">
+            <h1>Ram Aryal</h1>
+            <h2>Software Engineer</h2>
+            <p class="profile-description">
+                I have More then 2 year's experience building software for clients all over the world. Below is a quick overview of my main technical skill sets and technologies I use. Want to find out more about my experience? Check out my online resume.
+            </p>
+            <div class="profile-actions">
+               
+                <a href="#" class="btn">View Resume</a>
+            </div>
+        </div>
+
+        <div class="skills-section">
+            <h3>What I Do</h3>
+            <div class="skills-container">
+                <div class="skill-card">
+                    <div class="skill-icon"><i class="fab fa-js-square"></i></div>
+                    <h4>Vanilla JavaScript</h4>
+                    <p>Modern JavaScript (ES6+) with a focus on performance, accessibility, and interactivity. Core JavaScript programming without frameworks, focusing on fundamentals and DOM manipulation.</p>
+                </div>
+                <div class="skill-card">
+                    <div class="skill-icon">
+                        <i class="fab fa-react"></i>
+                    </div>
+                    <h4>React</h4>
+                    <p>Building frontend apps using React framework with strong emphasis on state management, hooks, and component-based architecture.</p>
+                </div>
+                <div class="skill-card">
+                    <div class="skill-icon"><i class="fab fa-node-js"></i></div>
+                    <h4>Node.js</h4>
+                    <p>Backend JavaScript development using Express, REST APIs, and real-time services. JavaScript runtime for building scalable server-side applications.</p>
+                </div>
+                <div class="skill-card">
+                    <div class="skill-icon">
+                        <i class="fab fa-python"></i>
+                        <i class="fab fa-java"></i>
+                    </div>
+                    <h4>Python & Java</h4>
+                    <p>Backend development and automation with Python including Django. Enterprise application development with Java. Versatile programming languages for various applications.</p>
+                </div>
+                <div class="skill-card">
+                    <div class="skill-icon">
+                        <i class="fas fa-code"></i> <!-- Using generic code icon as there's no direct TypeScript icon -->
+                    </div>
+                    <h4>TypeScript</h4>
+                    <p>Typed superset of JavaScript that compiles to plain JavaScript. Used for building large-scale applications with better tooling and code maintainability.</p>
+                </div>
+                <div class="skill-card">
+                    <div class="skill-icon">
+                        <i class="fab fa-html5"></i>
+                        <i class="fab fa-css3-alt"></i>
+                    </div>
+                    <h4>HTML & CSS</h4>
+                    <p>Responsive and accessible front-end markup with semantic HTML and modern CSS including Flexbox and Grid. Fundamental technologies for web development.</p>
+                </div>
+                <div class="skill-card">
+                    <div class="skill-icon">
+                        <i class="fas fa-database"></i> <!-- Generic database icon -->
+                    </div>
+                    <h4>Database</h4>
+                    <p>Expertise in MySQL, SQL Server, Oracle, and MongoDB. Database design, implementation, and optimization for both relational and NoSQL systems.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+</body>
+</html>

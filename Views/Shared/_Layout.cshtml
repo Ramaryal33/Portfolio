@@ -1,0 +1,177 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Ram Aryal | Software Engineer</title>
+    <link rel="stylesheet" href="~/css/site.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
+    @RenderSection("Styles", required: false)
+    <style>
+        :root {
+            --primary-color: #3498db;
+            --secondary-color: #2c3e50;
+            --accent-color: #e74c3c;
+            --text-color: #333;
+            --light-bg: #f9f9f9;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            color: var(--text-color);
+            line-height: 1.5;
+            margin: 0;
+            padding: 0;
+        }
+
+        .layout-container {
+            display: flex;
+            min-height: 100vh;
+        }
+
+        .sidebar {
+            width: 200px;
+            background: var(--secondary-color);
+            color: white;
+            padding: 2rem;
+            position: fixed;
+            height: 100%;
+            overflow-y: auto;
+        }
+
+        .main-content {
+            flex: 1;
+            padding: 2rem;
+            background: linear-gradient(to right, #32e39e, #4facfe); /* Gradient background */
+            margin-left: 200px; /* Match sidebar width */
+            min-height: 100vh; /* Ensure it fills full viewport height */
+            color: white; /* Optional: Adjust text color for better contrast */
+        }
+
+
+        /* Profile Section */
+        .profile-section {
+            text-align: center;
+            margin-bottom: 2rem;
+        }
+
+        .profile-img {
+            width: 150px;
+            height: 150px;
+            border-radius: 50%;
+            object-fit: cover;
+            margin-bottom: 1rem;
+            border: 4px solid var(--primary-color);
+        }
+
+        /* Navigation styles */
+        .nav-menu {
+            list-style: none;
+            padding: 0;
+            margin: 2rem 0;
+        }
+
+            .nav-menu li {
+                margin-bottom: 1rem;
+            }
+
+            .nav-menu a {
+                color: white;
+                text-decoration: none;
+                display: flex;
+                align-items: center;
+                gap: 0.8rem;
+                padding: 0.8rem;
+                border-radius: 4px;
+                transition: all 0.3s ease;
+            }
+
+                .nav-menu a:hover {
+                    background: rgba(255, 255, 255, 0.1);
+                }
+
+                .nav-menu a i {
+                    width: 24px;
+                    text-align: center;
+                }
+
+        /* Hire Me Button */
+        .hire-me-btn {
+            background-color: var(--accent-color) !important;
+            display: inline-block;
+            padding: 0.8rem 1.5rem;
+            border-radius: 4px;
+            margin-top: 1rem;
+            font-weight: bold;
+            text-align: center;
+        }
+
+            .hire-me-btn:hover {
+                background-color: palegreen !important;
+            }
+
+        /* Social Links */
+        .social-links {
+            display: flex;
+            justify-content: center;
+            gap: 1.5rem;
+            margin-top: 2rem;
+        }
+
+            .social-links a {
+                color: white;
+                font-size: 1.5rem;
+                transition: all 0.3s ease;
+            }
+
+                .social-links a:hover {
+                    color: var(--primary-color);
+                    transform: translateY(-3px);
+                }
+
+        /* Language Slider */
+        .language-slider {
+            color: var(--primary-color);
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <div class="layout-container">
+        <!-- Left Side Navigation -->
+        <nav class="sidebar">
+            <div class="profile-section">
+
+                <h2>Ram Aryal</h2>
+                <p>Software Engineer</p>
+                <p>Experience in <span class="language-slider" data-languages=".NET,JavaScript,TypeScript,React,C#,Web Api,Entity Framework"></span></p>
+            </div>
+
+            <ul class="nav-menu">
+                <li><a asp-controller="Home" asp-action="Home"><i class="fas fa-home"></i> Home</a></li>
+                <li><a asp-controller="Home" asp-action="About"><i class="fas fa-user"></i> About Me</a></li>
+              
+                <li><a asp-controller="Home" asp-action="Resume"><i class="fas fa-file-alt"></i> Resume</a></li>
+                <li><a asp-controller="Home" asp-action="Blog"><i class="fas fa-blog"></i> Blog</a></li>
+                <li><a asp-controller="Home" asp-action="Contact"><i class="fas fa-envelope"></i> Contact</a></li>
+                <li><a asp-controller="Home" asp-action="Contact" class="hire-me-btn"><i class="fas fa-handshake"></i> Hire Me</a></li>
+            </ul>
+
+            <div class="social-links">
+                <a href="https://github.com/Ramaryal33"><i class="fab fa-github"></i></a>
+                <a href="https://www.linkedin.com/in/ram-aryal-5644b92a4/"><i class="fab fa-linkedin"></i></a>
+                <a href="#"><i class="fab fa-twitter"></i></a>
+                <a href="#"><i class="fab fa-facebook-f"></i></a>
+            </div>
+        </nav>
+
+        <!-- Main Content Area -->
+        <main class="main-content">
+            @RenderBody()
+        </main>
+    </div>
+
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

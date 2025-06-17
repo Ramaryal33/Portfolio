@@ -1,0 +1,535 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\Portfolio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1175608E-890B-464A-98E6-4A03B543AF2D}|Portfolio.csproj|c:\\users\\nitro5\\desktop\\.net projects\\portfolio\\views\\home\\resume.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1175608E-890B-464A-98E6-4A03B543AF2D}|Portfolio.csproj|solutionrelative:views\\home\\resume.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1175608E-890B-464A-98E6-4A03B543AF2D}|Portfolio.csproj|c:\\users\\nitro5\\desktop\\.net projects\\portfolio\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1175608E-890B-464A-98E6-4A03B543AF2D}|Portfolio.csproj|solutionrelative:views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1175608E-890B-464A-98E6-4A03B543AF2D}|Portfolio.csproj|c:\\users\\nitro5\\desktop\\.net projects\\portfolio\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1175608E-890B-464A-98E6-4A03B543AF2D}|Portfolio.csproj|solutionrelative:controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1175608E-890B-464A-98E6-4A03B543AF2D}|Portfolio.csproj|c:\\users\\nitro5\\desktop\\.net projects\\portfolio\\models\\contactformmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1175608E-890B-464A-98E6-4A03B543AF2D}|Portfolio.csproj|solutionrelative:models\\contactformmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1175608E-890B-464A-98E6-4A03B543AF2D}|Portfolio.csproj|c:\\users\\nitro5\\desktop\\.net projects\\portfolio\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1175608E-890B-464A-98E6-4A03B543AF2D}|Portfolio.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1175608E-890B-464A-98E6-4A03B543AF2D}|Portfolio.csproj|c:\\users\\nitro5\\desktop\\.net projects\\portfolio\\repostory\\service\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1175608E-890B-464A-98E6-4A03B543AF2D}|Portfolio.csproj|solutionrelative:repostory\\service\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1175608E-890B-464A-98E6-4A03B543AF2D}|Portfolio.csproj|c:\\users\\nitro5\\desktop\\.net projects\\portfolio\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{1175608E-890B-464A-98E6-4A03B543AF2D}|Portfolio.csproj|solutionrelative:wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1175608E-890B-464A-98E6-4A03B543AF2D}|Portfolio.csproj|c:\\users\\nitro5\\desktop\\.net projects\\portfolio\\wwwroot\\css\\contact.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1175608E-890B-464A-98E6-4A03B543AF2D}|Portfolio.csproj|solutionrelative:wwwroot\\css\\contact.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1175608E-890B-464A-98E6-4A03B543AF2D}|Portfolio.csproj|c:\\users\\nitro5\\desktop\\.net projects\\portfolio\\views\\home\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1175608E-890B-464A-98E6-4A03B543AF2D}|Portfolio.csproj|solutionrelative:views\\home\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1175608E-890B-464A-98E6-4A03B543AF2D}|Portfolio.csproj|c:\\users\\nitro5\\desktop\\.net projects\\portfolio\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1175608E-890B-464A-98E6-4A03B543AF2D}|Portfolio.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1175608E-890B-464A-98E6-4A03B543AF2D}|Portfolio.csproj|c:\\users\\nitro5\\desktop\\.net projects\\portfolio\\views\\home\\hireme.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1175608E-890B-464A-98E6-4A03B543AF2D}|Portfolio.csproj|solutionrelative:views\\home\\hireme.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1175608E-890B-464A-98E6-4A03B543AF2D}|Portfolio.csproj|c:\\users\\nitro5\\desktop\\.net projects\\portfolio\\wwwroot\\image\\logo5.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{1175608E-890B-464A-98E6-4A03B543AF2D}|Portfolio.csproj|solutionrelative:wwwroot\\image\\logo5.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1175608E-890B-464A-98E6-4A03B543AF2D}|Portfolio.csproj|c:\\users\\nitro5\\desktop\\.net projects\\portfolio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1175608E-890B-464A-98E6-4A03B543AF2D}|Portfolio.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1175608E-890B-464A-98E6-4A03B543AF2D}|Portfolio.csproj|c:\\users\\nitro5\\desktop\\.net projects\\portfolio\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1175608E-890B-464A-98E6-4A03B543AF2D}|Portfolio.csproj|solutionrelative:services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1175608E-890B-464A-98E6-4A03B543AF2D}|Portfolio.csproj|c:\\users\\nitro5\\desktop\\.net projects\\portfolio\\repostory\\interface\\iemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1175608E-890B-464A-98E6-4A03B543AF2D}|Portfolio.csproj|solutionrelative:repostory\\interface\\iemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1175608E-890B-464A-98E6-4A03B543AF2D}|Portfolio.csproj|c:\\users\\nitro5\\desktop\\.net projects\\portfolio\\models\\getemailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1175608E-890B-464A-98E6-4A03B543AF2D}|Portfolio.csproj|solutionrelative:models\\getemailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1175608E-890B-464A-98E6-4A03B543AF2D}|Portfolio.csproj|c:\\users\\nitro5\\desktop\\.net projects\\portfolio\\views\\shared\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1175608E-890B-464A-98E6-4A03B543AF2D}|Portfolio.csproj|solutionrelative:views\\shared\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1175608E-890B-464A-98E6-4A03B543AF2D}|Portfolio.csproj|c:\\users\\nitro5\\desktop\\.net projects\\portfolio\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1175608E-890B-464A-98E6-4A03B543AF2D}|Portfolio.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1175608E-890B-464A-98E6-4A03B543AF2D}|Portfolio.csproj|c:\\users\\nitro5\\desktop\\.net projects\\portfolio\\portfolio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1175608E-890B-464A-98E6-4A03B543AF2D}|Portfolio.csproj|solutionrelative:portfolio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1175608E-890B-464A-98E6-4A03B543AF2D}|Portfolio.csproj|c:\\users\\nitro5\\desktop\\.net projects\\portfolio\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1175608E-890B-464A-98E6-4A03B543AF2D}|Portfolio.csproj|solutionrelative:views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1175608E-890B-464A-98E6-4A03B543AF2D}|Portfolio.csproj|c:\\users\\nitro5\\desktop\\.net projects\\portfolio\\wwwroot\\css\\resume.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1175608E-890B-464A-98E6-4A03B543AF2D}|Portfolio.csproj|solutionrelative:wwwroot\\css\\resume.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1175608E-890B-464A-98E6-4A03B543AF2D}|Portfolio.csproj|c:\\users\\nitro5\\desktop\\.net projects\\portfolio\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1175608E-890B-464A-98E6-4A03B543AF2D}|Portfolio.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1175608E-890B-464A-98E6-4A03B543AF2D}|Portfolio.csproj|c:\\users\\nitro5\\desktop\\.net projects\\portfolio\\wwwroot\\css\\about.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1175608E-890B-464A-98E6-4A03B543AF2D}|Portfolio.csproj|solutionrelative:wwwroot\\css\\about.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1175608E-890B-464A-98E6-4A03B543AF2D}|Portfolio.csproj|c:\\users\\nitro5\\desktop\\.net projects\\portfolio\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1175608E-890B-464A-98E6-4A03B543AF2D}|Portfolio.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1175608E-890B-464A-98E6-4A03B543AF2D}|Portfolio.csproj|c:\\users\\nitro5\\desktop\\.net projects\\portfolio\\views\\home\\blog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1175608E-890B-464A-98E6-4A03B543AF2D}|Portfolio.csproj|solutionrelative:views\\home\\blog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1175608E-890B-464A-98E6-4A03B543AF2D}|Portfolio.csproj|c:\\users\\nitro5\\desktop\\.net projects\\portfolio\\wwwroot\\image\\image1.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{1175608E-890B-464A-98E6-4A03B543AF2D}|Portfolio.csproj|solutionrelative:wwwroot\\image\\image1.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1175608E-890B-464A-98E6-4A03B543AF2D}|Portfolio.csproj|c:\\users\\nitro5\\desktop\\.net projects\\portfolio\\wwwroot\\image\\image.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{1175608E-890B-464A-98E6-4A03B543AF2D}|Portfolio.csproj|solutionrelative:wwwroot\\image\\image.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1175608E-890B-464A-98E6-4A03B543AF2D}|Portfolio.csproj|c:\\users\\nitro5\\desktop\\.net projects\\portfolio\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1175608E-890B-464A-98E6-4A03B543AF2D}|Portfolio.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1175608E-890B-464A-98E6-4A03B543AF2D}|Portfolio.csproj|c:\\users\\nitro5\\desktop\\.net projects\\portfolio\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1175608E-890B-464A-98E6-4A03B543AF2D}|Portfolio.csproj|solutionrelative:views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1175608E-890B-464A-98E6-4A03B543AF2D}|Portfolio.csproj|c:\\users\\nitro5\\desktop\\.net projects\\portfolio\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1175608E-890B-464A-98E6-4A03B543AF2D}|Portfolio.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1175608E-890B-464A-98E6-4A03B543AF2D}|Portfolio.csproj|c:\\users\\nitro5\\desktop\\.net projects\\portfolio\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1175608E-890B-464A-98E6-4A03B543AF2D}|Portfolio.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1175608E-890B-464A-98E6-4A03B543AF2D}|Portfolio.csproj|c:\\users\\nitro5\\desktop\\.net projects\\portfolio\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1175608E-890B-464A-98E6-4A03B543AF2D}|Portfolio.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 234,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 26,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "logo5.png - PNG [1038x1500, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\Portfolio\\wwwroot\\Image\\logo5.png",
+              "RelativeDocumentMoniker": "wwwroot\\Image\\logo5.png",
+              "ToolTip": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\Portfolio\\wwwroot\\Image\\logo5.png - PNG [1038x1500, 32 bit, PNG]",
+              "RelativeToolTip": "wwwroot\\Image\\logo5.png - PNG [1038x1500, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-06-13T16:17:09.233Z",
+              "EditorCaption": " - PNG [1038x1500, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmailSender.cs",
+              "DocumentMoniker": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\Portfolio\\Repostory\\Service\\EmailSender.cs",
+              "RelativeDocumentMoniker": "Repostory\\Service\\EmailSender.cs",
+              "ToolTip": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\Portfolio\\Repostory\\Service\\EmailSender.cs",
+              "RelativeToolTip": "Repostory\\Service\\EmailSender.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAswDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T10:18:53.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IEmailSender.cs",
+              "DocumentMoniker": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\Portfolio\\Repostory\\Interface\\IEmailSender.cs",
+              "RelativeDocumentMoniker": "Repostory\\Interface\\IEmailSender.cs",
+              "ToolTip": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\Portfolio\\Repostory\\Interface\\IEmailSender.cs",
+              "RelativeToolTip": "Repostory\\Interface\\IEmailSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T10:18:11.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\Portfolio\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "Services\\EmailService.cs",
+              "ToolTip": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\Portfolio\\Services\\EmailService.cs",
+              "RelativeToolTip": "Services\\EmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T07:27:48.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Portfolio.csproj",
+              "DocumentMoniker": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\Portfolio\\Portfolio.csproj",
+              "RelativeDocumentMoniker": "Portfolio.csproj",
+              "ToolTip": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\Portfolio\\Portfolio.csproj",
+              "RelativeToolTip": "Portfolio.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-13T06:52:56.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GetEmailSettings.cs",
+              "DocumentMoniker": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\Portfolio\\Models\\GetEmailSettings.cs",
+              "RelativeDocumentMoniker": "Models\\GetEmailSettings.cs",
+              "ToolTip": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\Portfolio\\Models\\GetEmailSettings.cs",
+              "RelativeToolTip": "Models\\GetEmailSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T06:18:17.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\Portfolio\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\Portfolio\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-12T15:13:42.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContactFormModel.cs",
+              "DocumentMoniker": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\Portfolio\\Models\\ContactFormModel.cs",
+              "RelativeDocumentMoniker": "Models\\ContactFormModel.cs",
+              "ToolTip": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\Portfolio\\Models\\ContactFormModel.cs",
+              "RelativeToolTip": "Models\\ContactFormModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T14:52:26.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\Portfolio\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\Portfolio\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-06-07T16:27:20.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "image1.jpg - Bitmap [711x400, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\Portfolio\\wwwroot\\Image\\image1.jpg",
+              "RelativeDocumentMoniker": "wwwroot\\Image\\image1.jpg",
+              "ToolTip": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\Portfolio\\wwwroot\\Image\\image1.jpg - Bitmap [711x400, 24 bit, JPG]",
+              "RelativeToolTip": "wwwroot\\Image\\image1.jpg - Bitmap [711x400, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-04-19T14:06:16.18Z",
+              "EditorCaption": " - Bitmap [711x400, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Home.cshtml",
+              "DocumentMoniker": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\Portfolio\\Views\\Home\\Home.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Home.cshtml",
+              "ToolTip": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\Portfolio\\Views\\Home\\Home.cshtml",
+              "RelativeToolTip": "Views\\Home\\Home.cshtml",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAABYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-19T09:59:47.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\Portfolio\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\Portfolio\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAACkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-19T08:22:14.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\Portfolio\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\Portfolio\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAwwI8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-19T08:01:35.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\Portfolio\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\Portfolio\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-19T07:58:25.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\Portfolio\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\Portfolio\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-19T07:58:23.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\Portfolio\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\Portfolio\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-19T07:55:57.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "resume.css",
+              "DocumentMoniker": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\Portfolio\\wwwroot\\css\\resume.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\resume.css",
+              "ToolTip": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\Portfolio\\wwwroot\\css\\resume.css",
+              "RelativeToolTip": "wwwroot\\css\\resume.css",
+              "ViewState": "AgIAAK0AAAAAAAAAAAAIwM4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-19T07:51:16.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Hireme.cshtml",
+              "DocumentMoniker": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\Portfolio\\Views\\Home\\Hireme.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Hireme.cshtml",
+              "ToolTip": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\Portfolio\\Views\\Home\\Hireme.cshtml",
+              "RelativeToolTip": "Views\\Home\\Hireme.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-19T07:49:15.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "contact.css",
+              "DocumentMoniker": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\Portfolio\\wwwroot\\css\\contact.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\contact.css",
+              "ToolTip": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\Portfolio\\wwwroot\\css\\contact.css",
+              "RelativeToolTip": "wwwroot\\css\\contact.css",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAABUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-19T07:46:45.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Blog.cshtml",
+              "DocumentMoniker": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\Portfolio\\Views\\Home\\Blog.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Blog.cshtml",
+              "ToolTip": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\Portfolio\\Views\\Home\\Blog.cshtml",
+              "RelativeToolTip": "Views\\Home\\Blog.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-19T07:43:04.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\Portfolio\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\Portfolio\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAIBJwC4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-19T07:41:27.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Class.cs",
+              "DocumentMoniker": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\Portfolio\\Views\\Shared\\Class.cs",
+              "RelativeDocumentMoniker": "Views\\Shared\\Class.cs",
+              "ToolTip": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\Portfolio\\Views\\Shared\\Class.cs",
+              "RelativeToolTip": "Views\\Shared\\Class.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T07:41:22.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\Portfolio\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\Portfolio\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-19T07:35:34.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\Portfolio\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\Portfolio\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T07:27:40.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "About.css",
+              "DocumentMoniker": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\Portfolio\\wwwroot\\css\\About.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\About.css",
+              "ToolTip": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\Portfolio\\wwwroot\\css\\About.css",
+              "RelativeToolTip": "wwwroot\\css\\About.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-19T07:26:41.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\Portfolio\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\Portfolio\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-19T07:20:17.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Resume.cshtml",
+              "DocumentMoniker": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\Portfolio\\Views\\Home\\Resume.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Resume.cshtml",
+              "ToolTip": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\Portfolio\\Views\\Home\\Resume.cshtml",
+              "RelativeToolTip": "Views\\Home\\Resume.cshtml",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAAI0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-16T13:55:30.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "image.jpg - Bitmap [664x1463, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\Portfolio\\wwwroot\\Image\\image.jpg",
+              "RelativeDocumentMoniker": "wwwroot\\Image\\image.jpg",
+              "ToolTip": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\Portfolio\\wwwroot\\Image\\image.jpg - Bitmap [664x1463, 24 bit, JPG]",
+              "RelativeToolTip": "wwwroot\\Image\\image.jpg - Bitmap [664x1463, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-04-16T13:48:50.732Z",
+              "EditorCaption": " - Bitmap [664x1463, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\Portfolio\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\Portfolio\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T13:42:57.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\Portfolio\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\Portfolio\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "Controllers\\ContactController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T13:42:48.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\Portfolio\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\Portfolio\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T05:47:51.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\Portfolio\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\Portfolio\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAJMAAAAAAAAAAIBJwHUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-05T03:19:47.017Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
